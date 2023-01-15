@@ -1,0 +1,116 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+
+}
+
+.orage-color {
+    color: red;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+
+    padding: 10px 20px;
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.half-width {
+    width: 50%;
+    padding: 2%;
+    margin-left: 20px;
+}
+
+.half-width img {
+    width: 500px;
+}
+
+.top-banner {
+    display: flex;
+}
+
+.p1 {
+    margin-bottom: 60px;
+}
+
+.partoneofsection {
+    margin-left: 30px;
+    margin-top: 80px;
+}
+
+.about-me {
+    display: flex;
+    background-image: url(images/shape/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+#contact-me {
+    margin-top: 200px;
+    padding: 20px;
+}
+
+.title-recipies {
+    text-align: center;
+}
+
+.flexible {
+    display: flex;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.recipies1 {
+    width: 800px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+
+}
+
+.recipies1 img {
+    width: 400px;
+}
+
+.us {
+    display: flex;
+    margin-left: 280px;
+    margin-top: 100px;
+    margin-right: 250px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    margin-bottom: 150px;
+
+}
+
+.us1 {
+    width: 50%;
+}
+
+#ytus {
+    margin-left: 100px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer h2 {
+    color: aliceblue;
+}
+
+footer p {
+    color: aliceblue;
+}
